@@ -1,6 +1,6 @@
-# Title
+# Movie Analysis (still under construction)
 
-**Authors**: Student1, Student2
+**Author**: Dan Lee
 
 ## Overview
 
@@ -82,3 +82,4 @@ Describe the structure of your repository and its contents, for example:
 ├── zippedData                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
+≈
