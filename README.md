@@ -10,16 +10,12 @@ As a start, this presentation will recommend that executives aim to make movies 
 
 ## Business Problem
 
-The past 20 years has seen a transition in the film making and production business. With the rise of internet streaming delivery to consumers, tech companies have benefitted from producing their own movies in house. They have cut out the middle man by avoiding outsourcing them to the production companies that have dominated Hollywood for nearly a century.
-
-Microsoft is one of the big players in personal computers, software/operating systems, video games, and accessories. Now they want in on the $100+ billion film industry. In this presentation we will give Microsoft executives some vision and direction in how to approach movie making.
+Microsoft is one of the big players in personal computers, software/operating systems, video games, and accessories. Now they want in on the $100+ billion film industry. In this presentation we will give Microsoft executives some vision and direction in how to enter the movie industry at the top.
 
 We will focus on three questions:
 1. What movie genres earn the most worldwide revenue?
 2. How long should a movie be to maximize revenue?
 3. What movie personnel will maximize IMDb ratings?
-
-I believe the answers to these high-level questions will give executives an understanding of the current trends in the film industry.
 
 ## Data
 
@@ -54,10 +50,6 @@ To summarize:
 1. Make movies in the following genres: Sci-Fi, Adventure, Animation, Fantasy, and Action. To make the most revenue, focus on Sci-Fi and Adventure.
 2. Make movies in the recommended ~30 minute windows to maximuze revenue. Make longer movies.
 3. Hire personnel associated with the top ratings as voted on by users of IMDb.
-
-A few caveats:
-* Analyzing data that is more comprehensive (this study was limited to the years 2010-2018) can give additional potential insight
-* To be critical, the movie time recommendation seems a bit contrived. Obviously directors and editors should try to tell the best story they can while being efficient and/or stylistic with their time. The reason longer movies seem to do so well is they are commonly associated with intellectual property of familiar franchises, and audiences are willing to sit through longer movies that have a reputation that proceeds them.
 
 Good luck and godspeed!
 
