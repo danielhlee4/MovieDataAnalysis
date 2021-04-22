@@ -1,4 +1,4 @@
-# Movie Analysis (still under construction)
+# Movie Analysis
 
 **Author**: Dan Lee
 
